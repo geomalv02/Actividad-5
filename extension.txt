@@ -1,0 +1,9 @@
+// obtener la ruta del archivo
+        private static string direccion()
+        {
+            string path = @"";
+            return path;
+        }
+        // registro de productos
+        private static void regprod()
+        {
